@@ -1,0 +1,21 @@
+** Para refatorar/renomear o nome da classe ou nome de algum atributo:
+    * Clica sobre o nome da classe, pressiona SHIFT F6: alterar o nome / Refactor (no IntelliJ)
+    * lica sobre o nome da classe, pressiona SHIT F2 ou F2: alterar o nome / Refactor (no Eclipse)
+
+** Para aparecer apenas a tela do código (texto):
+    * Pressionar Shift F12
+
+** Para organizar as linhas (tabulação):
+    * Pressionar CTRL ALT L
+
+** Para duplicar a linha:
+    * Pressionar CTRL D
+
+** Para deletar linha:
+    * Pressionar CTRL Y (no intelliJ);
+    * Pressionar CTRL D (no Eclipse);
+
+** Para trocar linha de lugar:
+    * CTRL SHIFT Setinha para cima ou para baixo
+
+** Mais atalhos: http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
