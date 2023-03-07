@@ -19,3 +19,10 @@
     * CTRL SHIFT Setinha para cima ou para baixo
 
 ** Mais atalhos: http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea
+
+**Para criar o "main" podemos digitar:
+    *pvm e dar enter, ou
+    *main e dar enter.
+
+**Para executar uma classe que não está listada:
+    *precissionar CTRL Shift F10
